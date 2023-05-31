@@ -66,14 +66,6 @@ Orginal:- https://www.cricbuzz.com/
 ![Account](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Signup%20page.png)
 
 
-## Contributors
-- [Swapnil Vhantale](https://github.com/spvhantale)
-- [@Indrajit Paul](https://github.com/ipaul1996)
-- [@SHUBHAM VERMA](https://github.com/Shubhamverma94)
-- [@Vikram Navik](https://github.com/VikramN11)
-- [@S.K Sharma](https://github.com/Shray07)
-
-
 
 ## End Notes
 
